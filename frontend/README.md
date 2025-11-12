@@ -1,4 +1,4 @@
-# 🎨 Candidate Management Frontend
+# Candidate Management Frontend
 
 A **React + Vite** frontend application for managing **candidate profiles**, including personal info submission, resume uploads, and video introductions. Built for seamless integration with the **Node.js + Express** backend.
 
