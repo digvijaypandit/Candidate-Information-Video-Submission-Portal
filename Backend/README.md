@@ -173,12 +173,10 @@ npm run dev
 **Request Body:**
 ```json
 {
-  "name": "Jane Doe",
-  "email": "jane@example.com",
-  "phone": "+1555123456",
-  "position": "Backend Developer"
-}
-```
+  "firstName": "Jane",
+  "LastName": "Doe",
+  "CurrenPosition": "jr Backend Developer"",
+  "AppliedPosition": "jr Backend Developer"
 
 **Response:**
 ```json
@@ -192,7 +190,7 @@ npm run dev
 
 ##  Author
 
-**Your Name**  
+**Digvijay Pandit**  
 📧 [panditdigvijay2003@gmail.com](mailto:panditdigvijay2003@gmail.com)  
 🔗 [GitHub Profile](https://github.com/digvijaypandit)
 
