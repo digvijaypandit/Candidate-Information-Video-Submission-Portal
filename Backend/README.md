@@ -1,4 +1,4 @@
-# 🧑‍💼 Candidate Management Backend
+# Candidate Management Backend
 
 A **Node.js + Express** REST API for managing **candidate profiles**, including personal info, resume uploads, and video introductions. Built for smooth integration with a  **React** frontend.
 
@@ -174,9 +174,10 @@ npm run dev
 ```json
 {
   "firstName": "Jane",
-  "LastName": "Doe",
-  "CurrenPosition": "jr Backend Developer"",
-  "AppliedPosition": "jr Backend Developer"
+  "lastName": "Doe",
+  "currenPosition": "jr Backend Developer"",
+  "appliedPosition": "jr Backend Developer",
+  "Experience": "2"
 
 **Response:**
 ```json
