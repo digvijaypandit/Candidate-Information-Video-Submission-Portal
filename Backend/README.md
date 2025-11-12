@@ -178,6 +178,7 @@ npm run dev
   "currenPosition": "jr Backend Developer"",
   "appliedPosition": "jr Backend Developer",
   "Experience": "2"
+}
 
 **Response:**
 ```json
