@@ -1,5 +1,5 @@
 import videoService from "../services/video.service.js";
-import { ErrorResponse } from "../utils/responseHandler.js";
+import { ApiResponse, ErrorResponse } from "../utils/responseHandler.js";
 
 class VideoController {
   // Upload video

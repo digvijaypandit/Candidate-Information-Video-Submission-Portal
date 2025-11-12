@@ -1,5 +1,5 @@
 import resumeService from "../services/resume.service.js";
-import { ErrorResponse } from "../utils/responseHandler.js";
+import { ApiResponse, ErrorResponse } from "../utils/responseHandler.js";
 
 class ResumeController {
 
